@@ -11,5 +11,4 @@ This project involves analyzing Amazon sales data using Python, Power BI, and SQ
 
 
  ## 📸 Dashboard Preview
-
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](Screenshot%20(286).png)
